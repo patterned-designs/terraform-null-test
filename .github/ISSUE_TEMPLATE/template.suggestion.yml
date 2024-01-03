@@ -1,18 +1,23 @@
-name: Suggestion
-description: Offer a suggestion
-title: "Suggestion: An idea for the module"
+name: 💡Suggestion
+description: Suggest an idea for this project.
+title: "Suggestion: An idea"
 labels: ["Suggestion"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out a suggestion!
-
-        It is useful to frame suggestions in the form of "problems" as it helps ground any proposed features.
+         ### ❗️ Read this before submitting your suggestion:
+         - **Frame the suggestion in terms of a problem.** Problems help frame suggestions, enabling robust features.
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      options:
+        - label: I understand and accept the project's [code of conduct](https://github.com/patterned-designs/terraform-null-test/blob/main/.github/CODE_OF_CONDUCT.md).
+          required: true
   - type: textarea
     id: suggestion
     attributes:
       label: "What's the problem & suggestion?"
-      placeholder: "The module doesn't support cross-account which prevents..."
+      placeholder: "The module doesn't support cross-account which prevents using it..."
     validations:
       required: true
