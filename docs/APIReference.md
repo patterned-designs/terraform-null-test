@@ -3,11 +3,11 @@
 <table style="width: 100%; border-style: none;">
 <tr>
     <td style="width: 140px; text-align: center;">
-        <a href="https://codespaces.new/patterned-designs/terraform-aws-codepipeline-terraform-executor">
+        <a href="https://github.com/patterned-designs">
             <img 
                 width="128px"
                 height="128px"
-                src="https://avatars.githubusercontent.com/u/123343145?s=200&v=4"
+                src="./images/logo.png"
                 alt="patterned-designs module logo"/>
         </a>
     </td>

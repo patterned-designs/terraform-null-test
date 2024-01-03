@@ -6,7 +6,7 @@
         <a href="https://codespaces.new/patterned-designs/terraform-aws-codepipeline-terraform-executor">
             <img 
                 width="128px"
-                src="https://avatars.githubusercontent.com/u/102692984?s=200&v=4"
+                src="./images/logo.png"
                 alt="devcontainers organization logo"/>
         </a>
     </td>
@@ -40,7 +40,7 @@ Repositories often have complicated development environments that can take time 
 
 Click the button below to start a new development environment:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/patterned-designs/terraform-aws-codepipeline-terraform-executor)
+[![Open in GitHub Codespaces](./images/badge.svg)](https://codespaces.new/patterned-designs/terraform-aws-codepipeline-terraform-executor)
 
 ### What is a devcontainer.json file
 

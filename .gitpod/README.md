@@ -6,7 +6,7 @@
         <a href="https://gitpod.io/#https://github.com/the-aeydr/aws-cfn-unique-resource-names">
             <img 
                 width="128px"
-                src="https://avatars.githubusercontent.com/u/37021919?s=200&v=4"
+                src="./images/logo.png"
                 alt="gitpod organization logo"/>
         </a>
     </td>
@@ -43,7 +43,7 @@ GitPod is an ephemerial developer environment that instantiates a containerized 
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/the-aeydr/aws-cfn-unique-resource-names)
+[![Open in Gitpod](./images/badge.svg)](https://gitpod.io/#https://github.com/the-aeydr/aws-cfn-unique-resource-names)
 
 ### What is the `.gitpod.yml`?
 
