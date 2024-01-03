@@ -9,3 +9,6 @@ contact_links:
   - name: Encountering an error or unexpected behaviour?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/diagnostic.md
     about: See the diagnostic manual for investigating issues.
+  - name: Have a compliance or specialized question?
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/overview.md
+    about: Check the architecture write-ups on the module.
