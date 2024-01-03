@@ -3,12 +3,12 @@ contact_links:
   - name: Looking for runbooks?
     url: https://github.com/patterned-designs/terraform-null-test/tree/main/docs/runbooks
     about: Find the detailed "how-to" guides to resolve a given issue.
-  - name: Terraform or provider issues?
-    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/testing-methodology.md
-    about: Review what configurations the modules are tested against.
   - name: Encountering an error or unexpected behaviour?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/diagnostic.md
     about: See the diagnostic manual for investigating issues.
+  - name: Terraform or provider issues?
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/testing-methodology.md
+    about: Review what configurations the modules are tested against.
   - name: Have a compliance or specialized question?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/overview.md
     about: Check the architecture write-ups on the module.
