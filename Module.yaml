@@ -1,0 +1,21 @@
+name: terraform-null-test
+version: "1.0.4"
+description: A simple Terraform module for testing release processes
+type: application
+keywords:
+  - terraform
+  - test-module
+  - validation
+  - template
+home: https://github.com/patterned-designs/terraform-null-test
+sources:
+  - https://github.com/patterned-designs/terraform-null-test
+  - https://gitlab.com/patterned-designs/terraform-null-test
+maintainers:
+  - name: Patterned Designs
+    email: maintainers.patterned-designs@aeydr.dev
+    url: https://github.com/patterned-designs
+icon: https://github.com/patterned-designs/terraform-null-test/icon.png
+annotations:
+  uuid: 66c44bf7-dc85-4acc-9a92-b6f03ff88815
+  author: patterned-designs
