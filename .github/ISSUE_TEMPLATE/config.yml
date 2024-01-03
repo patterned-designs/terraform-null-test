@@ -5,10 +5,10 @@ contact_links:
     about: Find the detailed "how-to" guides to resolve a given issue.
   - name: Terraform or provider issues?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/toolchain-guidelines.md
-    about: Review the guidelines for configurations.
-  - name: Error help?
-    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
-    about: Look at the detailed "how-to" guides for common issues.
+    about: Review what configurations the modules are tested against.
+  - name: Encountering an error or unexpected behaviour?
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/diagnostic.md
+    about: See the diagnostic manual for investigating issues.
   - name: Security concern?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/.github/SECURITY.md
     about: Please read the repository security policy
