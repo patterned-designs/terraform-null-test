@@ -1,14 +1,28 @@
-name: Question
-description: Ask a question about the software
-title: "Question: Does this module support XYZ"
+name: ❔Question
+description: Ask a question about the software.
+title: "Question: How does this module handle"
 labels: ["Question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out a suggestion!
-
-        It is useful to frame suggestions in the form of "problems" as it helps ground any proposed features.
+         ### ❗️ Read this before submitting your question:
+         - **Check out the [project's documentation](https://github.com/patterned-designs/terraform-null-test/tree/main/docs).** Answers often exist in the documentation.
+         - **Remember to ask about the software itself.** Questions about related tools or dependencies are better suited to other discussion forums.
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      options:
+        - label: I understand and accept the project's [code of conduct](https://github.com/patterned-designs/terraform-null-test/blob/main/.github/CODE_OF_CONDUCT.md).
+          required: true
+        - label: I have already [reviewed the project's documentation](https://github.com/patterned-designs/terraform-null-test/tree/main/docs) and found no solution to the issue.
+          required: true
+  - type: input
+    id: sponsor-company
+    attributes:
+      label: Your company or customer's name goes here (if applicable).
+    validations:
+      required: false
   - type: textarea
     id: suggestion
     attributes:
