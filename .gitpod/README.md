@@ -3,7 +3,7 @@
 <table style="width: 100%; border-style: none;">
 <tr>
     <td style="width: 140px; text-align: center;">
-        <a href="https://gitpod.io/#https://github.com/the-aeydr/aws-cfn-unique-resource-names">
+        <a href="https://gitpod.io/#https://github.com/patterned-designs/terraform-aws-codepipeline-terraform-executor">
             <img 
                 width="128px"
                 src="./images/logo.png"
@@ -13,7 +13,7 @@
     <td>
         <strong>GitPod Development Container</strong><br />
         Spin up fresh, automated dev environments for each task, in the cloud, in seconds.<br />
-        Looking to get started? <a href="https://gitpod.io/#https://github.com/the-aeydr/aws-cfn-unique-resource-names">Open in Gitpod.io</a>
+        Looking to get started? <a href="https://gitpod.io/#https://github.com/patterned-designs/terraform-aws-codepipeline-terraform-executor">Open in Gitpod.io</a>
     </td>
 </tr>
 </table>
@@ -43,7 +43,7 @@ GitPod is an ephemerial developer environment that instantiates a containerized 
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](./images/badge.svg)](https://gitpod.io/#https://github.com/the-aeydr/aws-cfn-unique-resource-names)
+[![Open in Gitpod](./images/badge.svg)](https://gitpod.io/#https://github.com/patterned-designs/terraform-aws-codepipeline-terraform-executor)
 
 ### What is the `.gitpod.yml`?
 
