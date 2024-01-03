@@ -44,7 +44,6 @@ body:
 
         module "example" {
           source  = "git::https://github.com/patterned-designs/terraform-null-test?ref=tags/1.2.3" # This!
-          
         }
       options:
         - v0.1.2
