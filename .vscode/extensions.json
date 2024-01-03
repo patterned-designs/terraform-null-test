@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "hashicorp.terraform",
+        "ms-vscode.makefile-tools",
+        "redhat.vscode-yaml",
+        "vscode-icons-team.vscode-icons"
+    ]
+}

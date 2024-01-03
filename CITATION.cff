@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you wish to cite this software, you can cite it as below."
+authors:
+  - family-names: "Patterned Designs"
+
+version: 1.0.0
+date-released: 2024-01-02
+title: "Terraform module for Template Tests"
+url: https://github.com/patterned-designs/terraform-null-test
