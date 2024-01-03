@@ -43,7 +43,7 @@ body:
         You can find it by checking your module source or version field.
 
         module "example" {
-          source  = "git::https://github.com/patterned-designs/terraform-null-test?ref=tags/1.2.3" # This!
+          source  = `"git::https://github.com/patterned-designs/terraform-null-test?ref=tags/1.2.3"` # This!
         }
       options:
         - v0.1.2
