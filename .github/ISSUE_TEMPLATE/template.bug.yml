@@ -1,0 +1,51 @@
+name: Bug
+description: Report a bug
+title: "Bug: Problem with the module"
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+        Remember! Providing as much details as you can is highly useful 
+  - type: dropdown
+    id: terraform-version
+    attributes:
+      label: Terraform version
+      description: |-
+        You can find it by running `terraform version`.
+      options:
+        - v1.5.0
+        - v1.5.1
+        - v1.6.0
+        - v1.6.1
+        - v1.6.2
+    validations:
+      required: true
+  - type: dropdown
+    id: module-version
+    attributes:
+      label: Module version
+      description: |-
+        You can find it by checking your source or version reference.
+
+        module "example" {
+          source  = "patterned-designs/terraform-aws-codepipeline-terraform-executor"
+          version = "1.2.1" # <== This value
+        }
+      options:
+        - v0.1.2
+        - v0.1.3
+        - v0.1.4
+        - v0.2.0
+        - v0.2.1
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What's the problem?"
+      placeholder: "The S3 bucket fails on create..."
+    validations:
+      required: true

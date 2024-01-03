@@ -1,0 +1,18 @@
+name: Suggestion
+description: Offer a suggestion
+title: "Suggestion: An idea for the module"
+labels: ["Suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out a suggestion!
+
+        It is useful to frame suggestions in the form of "problems" as it helps ground any proposed features.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "What's the problem & suggestion?"
+      placeholder: "The module doesn't support cross-account which prevents..."
+    validations:
+      required: true
