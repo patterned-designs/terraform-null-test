@@ -7,10 +7,10 @@ body:
     attributes:
       value: |
          ### ❗️ Read this before submitting your bug report:
-         - **Write in English.** - Reports in all other languages will be closed.
-         - **Provide as much detail as possible** - Error logs, screenshots, your exact configuration. If the issue cannot be reproduced, it cannot be fixed.
-         - **Follow the [bug report guidelines](https://github.com/patterned-designs/terraform-null-test/blob/main/.github/SUPPORT.md).** - This will help maintainers qualify your report faster.
-         - **Avoid posting errors or stacktraces without context** - Stack traces & errors aren't always enough to know what was happening when it failed.
+         - **Write in English.** Reports in all other languages will be closed.
+         - **Provide as much detail as possible.** Error logs, screenshots, your exact configuration. If the issue cannot be reproduced, it cannot be fixed.
+         - **Follow the [bug report guidelines](https://github.com/patterned-designs/terraform-null-test/blob/main/.github/SUPPORT.md).** This will help maintainers qualify your report faster.
+         - **Avoid posting errors or stacktraces without context.** Stack traces & errors don't tell what was happening when the error occurred.
   - type: checkboxes
     attributes:
       label: Prerequisites
