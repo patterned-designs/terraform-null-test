@@ -3,6 +3,9 @@ contact_links:
   - name: Terraform issues?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
     about: Review the guidelines for configurations.
+  - name: Looking for runbooks?
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
+    about: Find the detailed "how-to" guides for common issues.
   - name: Error help?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
     about: Look at the detailed "how-to" guides for common issues.
