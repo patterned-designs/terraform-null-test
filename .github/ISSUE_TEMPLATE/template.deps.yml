@@ -1,7 +1,7 @@
-name: Help
-description: Seek help with an issue
-title: "Help: A problem faced"
-labels: ["Help"]
+name: Dependencies
+description: Seek help with a dependency issue
+title: "Deps: Error with the dependencies"
+labels: ["Dependencies"]
 body:
   - type: markdown
     attributes:
