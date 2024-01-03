@@ -40,11 +40,11 @@ body:
     attributes:
       label: Module version
       description: |-
-        You can find it by checking your source or version reference.
+        You can find it by checking your module source or version field.
 
         module "example" {
-          source  = "patterned-designs/terraform-aws-codepipeline-terraform-executor"
-          version = "1.2.1" # <== This value
+          source  = "git::https://github.com/patterned-designs/terraform-null-test?ref=tags/1.2.3" # This!
+          
         }
       options:
         - v0.1.2
