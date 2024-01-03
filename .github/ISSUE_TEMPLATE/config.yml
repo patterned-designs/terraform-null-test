@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Configuration help?
+  - name: Terraform issues?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
-    about: Please create a discussion.
-  - name: Environment help?
-    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/environment.md
-    about: Please open a ticket.
+    about: Review the guidelines for configurations.
+  - name: Error help?
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
+    about: Look at the detailed "how-to" guides for common issues.
   - name: Security concern?
     url: https://github.com/patterned-designs/terraform-null-test/blob/main/.github/SECURITY.md
-    about: Please read the repository security organization
+    about: Please read the repository security policy
