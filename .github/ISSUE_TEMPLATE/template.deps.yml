@@ -1,7 +1,7 @@
-name: Dependencies
-description: Seek help with a dependency issue
-title: "Deps: Error with the dependencies"
-labels: ["Dependencies"]
+name: Question
+description: Ask a question about the software
+title: "Question: Does this module support XYZ"
+labels: ["Question"]
 body:
   - type: markdown
     attributes:
