@@ -1,0 +1,15 @@
+{
+    "name": "Workspace",
+    "workspaceFolder": "/workspace",
+    "image": "mcr.microsoft.com/vscode/devcontainers/go@sha256:4cae6b242e4c6357f3242c0c6c70987cf56ad42e7c3ae925ea3ad3525925f891",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "hashicorp.terraform",
+                "ms-vscode.makefile-tools",
+                "redhat.vscode-yaml",
+                "vscode-icons-team.vscode-icons"
+            ]
+        }
+    }
+}
