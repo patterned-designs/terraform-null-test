@@ -54,6 +54,12 @@ body:
         - v0.2.1
     validations:
       required: true
+  - type: input
+    id: sponsor-company
+    attributes:
+      label: Your company or customer's name goes here (if applicable).
+    validations:
+      required: false
   - type: textarea
     id: problem
     attributes:
