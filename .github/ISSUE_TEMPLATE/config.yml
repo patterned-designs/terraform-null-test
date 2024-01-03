@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Configuration help?
-    url: https://github.com/patterned-designs/readme/blob/main/README.md
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/configuration.md
     about: Please create a discussion.
   - name: Environment help?
-    url: https://github.com/patterned-designs/readme/blob/main/README.md
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/docs/environment.md
     about: Please open a ticket.
   - name: Security concern?
-    url: https://github.com/patterned-designs/readme/blob/main/README.md
+    url: https://github.com/patterned-designs/terraform-null-test/blob/main/.github/SECURITY.md
     about: Please read the repository security organization
