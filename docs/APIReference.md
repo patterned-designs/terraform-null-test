@@ -38,6 +38,11 @@
 </tr>
 </table>
 
+---
+> [!NOTE]
+> This project is part of ...
+>
+
 <!-- terraform-docs markdown . --sort --output-file docs/APIReference.md -->
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
